@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$1" == "--help" ]; then
-    echo "Latex compiler 1.0, by Johan Sjöblom. The code is public domain."
+    echo "Latex compile script 1.0, by Johan Sjöblom. The code is public domain."
     echo "Usage:"
     echo "$0 <filename>      Compiles the given file"
     echo "$0 <filename> -l   Compiles loudly, eg prints pdflatex output"
